@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Confirm email done before";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div>
+    <p>
+        Your account has been confirmed before!
+    </p>
+</div>
+
+<div>
+    <a asp-action="Login" asp-route-returnurl="@ViewData["ReturnUrl"]">Go to login side</a>
+</div>

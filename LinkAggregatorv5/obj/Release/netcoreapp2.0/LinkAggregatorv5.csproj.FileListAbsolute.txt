@@ -1,0 +1,10 @@
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\obj\Release\netcoreapp2.0\LinkAggregatorv5.csproj.CoreCompileInputs.cache
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\obj\Release\netcoreapp2.0\LinkAggregatorv5.AssemblyInfoInputs.cache
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\obj\Release\netcoreapp2.0\LinkAggregatorv5.AssemblyInfo.cs
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\bin\Release\netcoreapp2.0\LinkAggregatorv5.deps.json
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\bin\Release\netcoreapp2.0\LinkAggregatorv5.runtimeconfig.json
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\bin\Release\netcoreapp2.0\LinkAggregatorv5.runtimeconfig.dev.json
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\bin\Release\netcoreapp2.0\LinkAggregatorv5.dll
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\bin\Release\netcoreapp2.0\LinkAggregatorv5.pdb
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\obj\Release\netcoreapp2.0\LinkAggregatorv5.dll
+C:\Users\rzonc\source\repos\LinkAggregatorv5\LinkAggregatorv5\obj\Release\netcoreapp2.0\LinkAggregatorv5.pdb

@@ -1,0 +1,48 @@
+﻿@model LinkAggregatorv5.Models.Link
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Movie</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Description" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="LinkURL" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="LinkURL" class="form-control" />
+                <span asp-validation-for="LinkURL" class="text-danger"></span>
+            </div>
+        </div>
+
+                <input asp-for="IdLink" class="form-control" type="hidden"/>
+                <input asp-for="AddDate" class="form-control" type="hidden"/>
+                <input asp-for="WhoAdd" class="form-control" type="hidden" />
+                <input asp-for="LikeCount" class="form-control" type="hidden" />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
